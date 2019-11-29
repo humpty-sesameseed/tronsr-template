@@ -48,7 +48,7 @@ Obtained degree in the healthcare field, found it more satisfying to make an imp
 
 ## Head of Operations
 
-**Steve**
+**Coinwanderer**
 
 Coinwanderer (CW) is an experienced engineer working for worldwide broadcast outlets. His other experience includes work in marketing, public relations, and technical writing. CW was a freelance cryptocurrency enthusiast and tokenomics consultant.
 

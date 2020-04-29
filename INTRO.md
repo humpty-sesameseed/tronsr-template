@@ -1,4 +1,8 @@
-**Sesameseed** is a community that exists on multiple blockchains created to support its members and developers by providing fair and transparent representation in delegated governance. Sesameseed reliably distributes daily rewards to its voting community in the form of SEED, an auto-compounding token that is backed by node rewards that are earned from producing blocks on multiple blockchains (TRON, Ontology). The peg is designed to always increase in value and the token is exchangeable for its pegged value at any time.
+**Sesameseed** is a community that exists on multiple blockchains created to support its members and developers by providing fair and transparent representation in delegated governance. Sesameseed reliably distributes daily rewards to its voting community in the form of SEED, an auto-compounding token that is backed by node rewards that are earned from producing blocks on multiple blockchains (TRON, Ontology, and Harmony). The peg is designed to always increase in value and the token is exchangeable for its pegged value at any time.
+
+Sesameseed has developed their multichain staking wallet, **Sprout**,to make staking simple and accessible to everyone and to earn better rewards. Sign up to Sprout today.
+
+https://sprout.sesameseed.org
 
 To learn more about Sesameseed, please join our community.
 
